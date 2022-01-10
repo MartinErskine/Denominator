@@ -2,7 +2,7 @@
   "profiles": {
     "Denominator": {
       "commandName": "Project",
-      "commandLineArgs": "--t 5 --c 3.25"
+      "commandLineArgs": "--t 20 --c 5.50"
     }
   }
 }
